@@ -6,4 +6,3 @@
 2. Nachdem der Account wiederhergestellt wurde, kann man nach dem Login die gewünschte VMWare Version ausgewählt werden. In diesem Fall **VMWare Workstation 14**
 3. Wenn das Installationsfile runtergeladen ist, muss die Installation konfiguriert werden
 	3. Je nach belieben den Speicherort wählen
-4. Ha
